@@ -1,0 +1,1012 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A697378-90D9-4BD6-B01A-678D1B5A62B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Food_Quest_App.My.MyApplication</StartupObject>
+    <RootNamespace>Food_Quest_App</RootNamespace>
+    <AssemblyName>Food Quest App</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Food Quest App.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Food Quest App.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.20.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin\admin_form.Designer.vb">
+      <DependentUpon>admin_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin\admin_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\customer_details.Designer.vb">
+      <DependentUpon>customer_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin\customer_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin\Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\employees_details.Designer.vb">
+      <DependentUpon>employees_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin\employees_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\product_details.Designer.vb">
+      <DependentUpon>product_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin\product_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin\transactions_details.Designer.vb">
+      <DependentUpon>transactions_details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin\transactions_details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\Card.Designer.vb">
+      <DependentUpon>Card.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\Card.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\Cash.Designer.vb">
+      <DependentUpon>Cash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\Cash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\cashier_form.Designer.vb">
+      <DependentUpon>cashier_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\cashier_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer\ChangePassword.Designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer\ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\SalesReport.Designer.vb">
+      <DependentUpon>SalesReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\SalesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\TransactionCard.Designer.vb">
+      <DependentUpon>TransactionCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\TransactionCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\TransactionCash.Designer.vb">
+      <DependentUpon>TransactionCash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\TransactionCash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\Authorization.Designer.vb">
+      <DependentUpon>Authorization.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\Authorization.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\VoidTransno.Designer.vb">
+      <DependentUpon>VoidTransno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\VoidTransno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier\VoidTransno2.Designer.vb">
+      <DependentUpon>VoidTransno2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashier\VoidTransno2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer\customer_cart.Designer.vb">
+      <DependentUpon>customer_cart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer\customer_cart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer\customer_form.Designer.vb">
+      <DependentUpon>customer_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer\customer_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer\Checkout.Designer.vb">
+      <DependentUpon>Checkout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer\Checkout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer\Qty.Designer.vb">
+      <DependentUpon>Qty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer\Qty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.Designer.vb">
+      <DependentUpon>ForgotPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginAttempts.Designer.vb">
+      <DependentUpon>loginAttempts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loginAttempts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PasswordReset.Designer.vb">
+      <DependentUpon>PasswordReset.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordReset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.vb">
+      <DependentUpon>SignUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signupSuccessful.Designer.vb">
+      <DependentUpon>signupSuccessful.vb</DependentUpon>
+    </Compile>
+    <Compile Include="signupSuccessful.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="admin\admin_form.resx">
+      <DependentUpon>admin_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\customer_details.resx">
+      <DependentUpon>customer_details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\employees_details.resx">
+      <DependentUpon>employees_details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\product_details.resx">
+      <DependentUpon>product_details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin\transactions_details.resx">
+      <DependentUpon>transactions_details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\Card.resx">
+      <DependentUpon>Card.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\Cash.resx">
+      <DependentUpon>Cash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\cashier_form.resx">
+      <DependentUpon>cashier_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer\ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\SalesReport.resx">
+      <DependentUpon>SalesReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\TransactionCard.resx">
+      <DependentUpon>TransactionCard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\TransactionCash.resx">
+      <DependentUpon>TransactionCash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\Authorization.resx">
+      <DependentUpon>Authorization.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\VoidTransno.resx">
+      <DependentUpon>VoidTransno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier\VoidTransno2.resx">
+      <DependentUpon>VoidTransno2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer\customer_cart.resx">
+      <DependentUpon>customer_cart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer\customer_form.resx">
+      <DependentUpon>customer_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer\Checkout.resx">
+      <DependentUpon>Checkout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer\Qty.resx">
+      <DependentUpon>Qty.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginAttempts.resx">
+      <DependentUpon>loginAttempts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordReset.resx">
+      <DependentUpon>PasswordReset.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signupSuccessful.resx">
+      <DependentUpon>signupSuccessful.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mockup-laptop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-mockup2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop-mockup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\default_watermarked_12335base.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mobile-number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail-icon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hide-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mockup-laptop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invalid_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\username_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fullname-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgotpass-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgotpass-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgotpass-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_button2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize_icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google-login-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-of-online-grocery-store-11550201068webukvt8n5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1759326.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EatMe_Save_on_Groceries_Illustration_Cart_sm_Compressed.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editor-1s-45px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2811%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %287%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2810%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %287%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %289%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2811%291.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%291.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2811%292.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%291.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoppingcart_shopping_shopaholic.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EatMe_Save_on_Groceries_Illustration_Cart_sm_Compressed1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beautiful-color-ui-gradients-backgrounds-piglet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b5e4d564a90adce8db62948838b7374a-0500b3dda4d93b97afa9c6bc68dd71e2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-window-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-username-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-forgot-password-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner3.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginbutton.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-eye-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-hide-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner_136 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the-insta-store-grocery-banner-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meal-plan-fruit-banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiply-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-window-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\286654-food-lunch-photography-colorful.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food_ingredients_icons_black_white_handdrawn_sketch_6846027.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papers.co-bb93-food-digital-illustration-art-1-wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cooking%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MIX+FOOD_19_banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food_ingredients_icons_black_white_handdrawn_sketch_68460271.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EPI-AFFORDABLE-COOKING_GROCERYBUDGET_ILLO-V2-01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipdealer_A141098524_preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coronavirus-supermarket-people-concept_23-2148498009.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\father-son-buying-food-supermarket_74855-5245.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-shopping-groceries_23-2148554972.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_ico.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_-_Add_Profile_interaction_communication_interface-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\92-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kit-harington-hair-jon-snow-1569167827.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_-_Add_Profile_interaction_communication_interface-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user2-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\768px-Circle-icons-profile.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\130-1303018_hl-learn-icon-cm-advertising-admin-icon-purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_542851.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\567-5674952_inventory-recipe-icon-inventory-icon-white-hd-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5-Seafood-Places-Banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\429-4293176_transparent-search-icon-png-white-inventory-icon-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-admin-settings-male-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seperator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\products.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receipts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employees.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graph.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employees1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\additem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editItem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard-final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\items.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transactions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emplo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemPic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chickenIcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itemName.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\price.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itemName1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quantity.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\discount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weight1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weight2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\description.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\description1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ingredients.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foodpic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\products1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passwprd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\birthday.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gender.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white_circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_item1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deliver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pickup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bdo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bpi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mastercard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cool3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Supermarket-960x480.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\debitOrCredit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\authorization.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\discount1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pwd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_reader.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\critical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-out-icon-24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\best seller.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stocks_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stocks_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

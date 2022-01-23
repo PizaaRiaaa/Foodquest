@@ -1,0 +1,653 @@
+C:\Users\Pickle\source\repos\Food Quest App\bin\Debug\Food Quest App.exe
+C:\Users\Pickle\source\repos\Food Quest App\bin\Debug\Food Quest App.pdb
+C:\Users\Pickle\source\repos\Food Quest App\bin\Debug\Food Quest App.xml
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food Quest App.exe
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food Quest App.xml
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food Quest App.pdb
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\Pickle\source\repos\Food Quest App\bin\Debug\Guna.UI2.dll
+C:\Users\Pickle\source\repos\Food Quest App\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pickle\source\repos\Food Quest App\bin\Debug\MetroFramework.dll
+C:\Users\Pickle\source\repos\Food Quest App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pickle\source\repos\Food Quest App\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Food Quest App.exe
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Food Quest App.pdb
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Food Quest App.xml
+C:\Users\User\source\repos\Food Quest App\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.exe
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.xml
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.pdb
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Food Quest App.exe.config
+C:\Users\User\source\repos\Food Quest App\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Zstandard.Net.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Food Quest App\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food Quest App.exe.config
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\source\repos\Food Quest App\obj\Debug\Food_Quest_App.addItems.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe.config
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.pdb
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.xml
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\MetroFramework.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\MySql.Data.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Google.Protobuf.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Zstandard.Net.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\Renci.SshNet.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\System.Buffers.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\System.Memory.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\bin\Debug\MySql.Data.xml
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe.config
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.addItems.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.xml
+C:\Users\Pickle\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.pdb
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe.config
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Food Quest App.pdb
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Food Quest App.xml
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\MetroFramework.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\MySql.Data.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Google.Protobuf.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Zstandard.Net.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\Renci.SshNet.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\System.Buffers.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\System.Memory.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\bin\Debug\MySql.Data.xml
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe.config
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.addItems.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.xml
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest App\obj\Debug\Food Quest App.pdb
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe.config
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.pdb
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Food Quest App.xml
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Food Quest\Food Quest App\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe.config
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.xml
+C:\Users\User\Desktop\Food Quest\Food Quest App\obj\Debug\Food Quest App.pdb
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe.config
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.pdb
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.xml
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\MetroFramework.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\MySql.Data.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Google.Protobuf.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Zstandard.Net.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\Renci.SshNet.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\System.Buffers.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\System.Memory.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\bin\Debug\MySql.Data.xml
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe.config
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.xml
+C:\Users\Pickle\OneDrive\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\Food Quest App\obj\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\rikki\Food Quest\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Food Quest App.exe.config
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Food Quest App.exe
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Food Quest App.pdb
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Food Quest App.xml
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\MetroFramework.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\MySql.Data.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Google.Protobuf.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Zstandard.Net.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\Renci.SshNet.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\System.Buffers.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\System.Memory.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\bin\Debug\MySql.Data.xml
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.exe.config
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.exe
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.xml
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.cashier_form.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_cart.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Qty.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Checkout.resources
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.exe.config
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.exe
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.pdb
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.xml
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\MetroFramework.Design.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\MetroFramework.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\MySql.Data.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Google.Protobuf.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Zstandard.Net.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\Renci.SshNet.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\System.Buffers.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\System.Memory.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\latest-foodquest\Food Quest\Food Quest\bin\Debug\MySql.Data.xml
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.exe.config
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.cashier_form.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_cart.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Checkout.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Qty.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.exe
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.xml
+E:\latest-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.cashier_form.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_cart.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Checkout.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Qty.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SplashScreen.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SplashScreen.resources
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.exe.config
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.exe
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.pdb
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Food Quest App.xml
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\MetroFramework.Design.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\MetroFramework.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\MySql.Data.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Google.Protobuf.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Zstandard.Net.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\Renci.SshNet.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\System.Buffers.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\System.Memory.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\old-foodquest\Food Quest\Food Quest\bin\Debug\MySql.Data.xml
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.exe.config
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.cashier_form.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_cart.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Checkout.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Qty.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SplashScreen.resources
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.exe
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.xml
+E:\old-foodquest\Food Quest\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.cashier_form.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_cart.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Checkout.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Qty.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SplashScreen.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Cash.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Card.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Transaction.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Authorization.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno2.resources
+C:\Users\User\Documents\rikki\system\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Discount.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Card.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Cash.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Authorization.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno2.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Card.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Cash.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.cashier_form.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Authorization.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno2.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_cart.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Checkout.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Qty.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SplashScreen.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.TransactionCard.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.TransactionCash.resources
+C:\Users\Pickle\Desktop\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SalesReport.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SalesReport.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.TransactionCard.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.TransactionCash.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.ChangePassword.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Dashboard.resources
+C:\Users\User\Documents\rikki\system\new\Food Quest\Food Quest\obj\Debug\Food_Quest_App.dashboard_details.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.vbprojAssemblyReference.cache
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.exe.config
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.admin_form.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_details.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Dashboard.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.employees_details.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.product_details.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.transactions_details.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Card.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Cash.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.cashier_form.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.ChangePassword.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SalesReport.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.TransactionCard.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.TransactionCash.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Authorization.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.VoidTransno2.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_cart.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.customer_form.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Checkout.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Qty.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.forgotPassword.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Login.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.loginAttempts.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.Resources.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SignUp.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.signupSuccessful.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.SplashScreen.resources
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.GenerateResource.cache
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.vbproj.CopyComplete
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.exe
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.xml
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food Quest App.pdb
+C:\Users\User\Documents\rikki\system\backup\Food Quest\Food Quest\obj\Debug\Food_Quest_App.PasswordReset.resources

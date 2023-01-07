@@ -8,11 +8,11 @@ Final project for applications development and emerging technology course carrie
 ``` database for foodquest:``` [click here](db/dbfoodquest.sql)
 
 ## Preview
-![store](prview/store.png)
-![pos](prview/pos.png)
-![transaction](prview/transaction.png)
-![dashboard](prview/dashboard.png)
-![products](prview/products.png)
+![store](preview/store.png)
+![pos](preview/pos.png)
+![transaction](preview/transaction.png)
+![dashboard](preview/dashboard.png)
+![products](preview/products.png)
 
 ## License
 This project is [MIT](LICENSE) Licensed

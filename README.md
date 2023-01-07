@@ -5,7 +5,12 @@ Final project for applications development and emerging technology course carrie
 * Visual Basic .NET 
 * XAMPP
 
-``` database for foodquest:``` [db](db/dbfoodquest.sql)
+``` database for foodquest:``` [click here](db/dbfoodquest.sql)
+
+## License
+This project is [MIT](LICENSE) Licensed
+
+
 
 
 
